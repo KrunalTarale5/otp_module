@@ -1,0 +1,25 @@
+{
+  "name": "otp_module",
+  "version": "1.0.0",
+  "description": "This is otp module",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KrunalTarale5/otp_module.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/KrunalTarale5/otp_module/issues"
+  },
+  "homepage": "https://github.com/KrunalTarale5/otp_module#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
